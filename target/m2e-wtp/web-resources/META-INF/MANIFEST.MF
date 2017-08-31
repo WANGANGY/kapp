@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Kapp
+Implementation-Version: 1.1
+Built-By: wanggang_cs
+Implementation-Vendor-Id: Kapp
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
